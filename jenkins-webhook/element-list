@@ -1,0 +1,15 @@
+au.csiro.data61.aap.elf
+au.csiro.data61.aap.elf.configuration
+au.csiro.data61.aap.elf.core
+au.csiro.data61.aap.elf.core.exceptions
+au.csiro.data61.aap.elf.core.filters
+au.csiro.data61.aap.elf.core.readers
+au.csiro.data61.aap.elf.core.values
+au.csiro.data61.aap.elf.core.writers
+au.csiro.data61.aap.elf.generation
+au.csiro.data61.aap.elf.library
+au.csiro.data61.aap.elf.library.compression
+au.csiro.data61.aap.elf.library.types
+au.csiro.data61.aap.elf.parsing
+au.csiro.data61.aap.elf.util
+au.csiro.data61.aap.samples
