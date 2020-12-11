@@ -1,4 +1,8 @@
 blf
+blf.blockchains.ethereum
+blf.blockchains.hyperledger
+blf.blockchains.hyperledger.connection
+blf.blockchains.hyperledger.state
 blf.configuration
 blf.core
 blf.core.exceptions
