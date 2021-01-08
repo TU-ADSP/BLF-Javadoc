@@ -4,7 +4,7 @@ blf.blockchains.ethereum.instructions
 blf.blockchains.ethereum.reader
 blf.blockchains.ethereum.state
 blf.blockchains.hyperledger
-blf.blockchains.hyperledger.connection
+blf.blockchains.hyperledger.instructions
 blf.blockchains.hyperledger.reader
 blf.blockchains.hyperledger.state
 blf.configuration
