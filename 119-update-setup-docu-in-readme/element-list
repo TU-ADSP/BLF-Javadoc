@@ -10,6 +10,7 @@ blf.blockchains.hyperledger.helpers
 blf.blockchains.hyperledger.instructions
 blf.blockchains.hyperledger.reader
 blf.blockchains.hyperledger.state
+blf.blockchains.hyperledger.variables
 blf.configuration
 blf.core
 blf.core.exceptions
